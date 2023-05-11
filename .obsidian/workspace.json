@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "6a3d178b03283fb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd79cfd654ff065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a9851014beb0c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data/0511, Git继续.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b4b3fb6ef6fe62e",
+    "type": "split",
+    "children": [
+      {
+        "id": "059da5ee42343279",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a241563158e9c84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "1d5ac32d00262f65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66e3f863b251554f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f279aee7c31109b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1b9c408e27734596",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9db17803576f1c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdbd5b6bda664aaf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data/0511, Git继续.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98811aeb813e6a3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data/0511, Git继续.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc5351233df7bd20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "336ec993d47dee73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data/0511, Git继续.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9a9851014beb0c87",
+  "lastOpenFiles": [
+    "Data/0510, 瑜伽, 婉儿.md",
+    "Data/0511, Git继续.md",
+    "Data/0509, Git研究, 语雀Bug.md",
+    "Data/0508, OB插件, 中文排序, AP归属.md",
+    "Attachment/Image Attachment/Pasted image 20230509145807.png",
+    "Attachment/Image Attachment/Pasted image 20230509145741.png",
+    "Attachment/Image Attachment/Pasted image 20230508210713.png",
+    "Attachment/Image Attachment/Pasted image 20230509145713.png",
+    "Attachment/Image Attachment/Pasted image 20230509145629.png",
+    "Keywords/中文排序的诡异.md",
+    "Keywords/空.md",
+    "Data/0508.md",
+    "Keywords/personal daily.md",
+    "Attachment/Image Attachment",
+    "时间戳/未命名.canvas",
+    "时间戳/05031523.md",
+    "Attachment/图片",
+    "未命名",
+    "Keywords",
+    "Data",
+    "202305011834.md",
+    "202305011835.md",
+    "202305011833.md",
+    "202305011832.md",
+    "202305011831.md",
+    "202305011830.md",
+    "202305011829.md",
+    "202305011828.md",
+    "202305011827.md",
+    "202305011826.md",
+    "202305011825.md",
+    "202305011824.md",
+    "202305011823.md",
+    "202305011822.md",
+    "202305011821.md",
+    "20230501181832.md",
+    "202305011744｜的.md",
+    "图片附件/Pasted image 20230423114526.png",
+    "图片附件/Pasted image 20230423111607.png",
+    "图片附件/Pasted image 20230423103531.png",
+    "图片附件/Pasted image 20230423103516.png",
+    "图片附件/Pasted image 20230421174354.png",
+    "今日评审 (含流程，3).zip",
+    "今日评审.zip",
+    "今日评审 (含流程，2).zip",
+    "评审和评审流程 (发布版本).zip",
+    "新建文件夹",
+    "未命名.canvas"
+  ]
+}

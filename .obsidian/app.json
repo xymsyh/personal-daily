@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "Attachment/Image Attachment",
+  "trashOption": "local",
+  "promptDelete": false,
+  "autoPairBrackets": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Keywords",
+  "newLinkFormat": "shortest",
+  "alwaysUpdateLinks": true
+}
