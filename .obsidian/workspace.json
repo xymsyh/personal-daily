@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "反馈/Bug反馈.md",
+                "file": "Bug反馈/Bug反馈.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,12 @@
             "id": "f42d61447de9c6a4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Keywords/快连VPN.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -143,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Keywords/快连VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Keywords/快连VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +186,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Keywords/快连VPN.md"
+              }
             }
           }
         ],
@@ -203,14 +211,14 @@
   },
   "active": "f42d61447de9c6a4",
   "lastOpenFiles": [
-    "反馈/Bug反馈.md",
-    "反馈/同一公式，在语雀不可用.md",
+    "Keywords/对于 Obsidian 的规划.md",
     "Keywords/快连VPN.md",
+    "Bug反馈/同一公式，在语雀不可用.md",
+    "Bug反馈/Bug反馈.md",
     "Data/05月09日.md",
     "Data/05月08日.md",
-    "反馈",
+    "Bug反馈",
     "Keywords/Custom File Explorer sorting.md",
-    "Keywords/对于 Obsidian 的规划.md",
     "Attachment/Image Attachment/Pasted image 20230514003701.png",
     "Attachment/Image Attachment/Pasted image 20230514003633.png",
     "Data/0513, OB插件, QK聊天.md",
