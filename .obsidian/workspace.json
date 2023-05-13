@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "adaef79458514229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keywords/对于 Obsidian 的规划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/0513, OB插件, QK聊天.md",
+                "file": "Keywords/对于 Obsidian 的规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/0513, OB插件, QK聊天.md",
+                "file": "Keywords/对于 Obsidian 的规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data/0513, OB插件, QK聊天.md"
+                "file": "Keywords/对于 Obsidian 的规划.md"
               }
             }
           }
@@ -156,13 +169,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6b9b2b76a76bd1b8",
+  "active": "adaef79458514229",
   "lastOpenFiles": [
-    "Keywords/Custom File Explorer sorting.md",
     "Data/0513, OB插件, QK聊天.md",
+    "Keywords/对于 Obsidian 的规划.md",
+    "Data/0511, Git继研.md",
+    "Data/0508, OB插件, 中文排序, AP归属.md",
+    "Keywords/Custom File Explorer sorting.md",
     "Data/0512, OB插件, QK想法.md",
     "Keywords/中文排序的诡异.md",
-    "Data/0511, Git继研.md",
     "Data/0509, Git研究, 语雀Bug.md",
     "Attachment/Image Attachment/5258871c38ddf191299d74b37380650.jpg",
     "Attachment/Image Attachment/Pasted image 20230512161344.png",
@@ -175,7 +190,6 @@
     "Attachment/Image Attachment/Pasted image 20230512004728.png",
     "Attachment/Image Attachment/Pasted image 20230512004316.png",
     "Data/0510, 瑜伽, 婉儿.md",
-    "Data/0508, OB插件, 中文排序, AP归属.md",
     "Keywords/空.md",
     "Data/0508.md",
     "Keywords/personal daily.md",
