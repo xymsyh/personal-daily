@@ -10,4 +10,5 @@
 
 ---
 
-在 [排序规格应用的目标文件夹 (openai.com)](https://chat.openai.com/c/c4da07d8-a06f-42e9-a960-5e7bb5824c95) 中，理解了
+在 [排序规格应用的目标文件夹 (openai.com)](https://chat.openai.com/c/c4da07d8-a06f-42e9-a960-5e7bb5824c95) 中，理解了这句话：
+> In this example the dot '.' symbol was used `target-folder: .` which means _apply the sorting specification to the folder which contains the note with the specification_.
