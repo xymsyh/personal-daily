@@ -27,6 +27,7 @@
               "state": {
                 "file": "Data/0508, OB插件, 中文排序, AP归属.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
