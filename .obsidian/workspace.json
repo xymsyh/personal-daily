@@ -39,9 +39,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "ba062b5269af040e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data/0508, OB插件, 中文排序, AP归属.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data/0508, OB插件, 中文排序, AP归属.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data/0508, OB插件, 中文排序, AP归属.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,10 +182,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3bcd46e93ded5447",
+  "active": "ba062b5269af040e",
   "lastOpenFiles": [
-    "Data/0509, Git研究, 语雀Bug.md",
     "Data/0508, OB插件, 中文排序, AP归属.md",
+    "Data/0509, Git研究, 语雀Bug.md",
     "Keywords/Custom File Explorer sorting.md",
     "Keywords/对于 Obsidian 的规划.md",
     "Attachment/Image Attachment/Pasted image 20230514003701.png",
