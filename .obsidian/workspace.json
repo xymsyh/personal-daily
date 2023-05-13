@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keywords/对于 Obsidian 的规划.md",
+                "file": "Data/0508, OB插件, 中文排序, AP归属.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keywords/对于 Obsidian 的规划.md",
+                "file": "Data/0508, OB插件, 中文排序, AP归属.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keywords/对于 Obsidian 的规划.md",
+                "file": "Data/0508, OB插件, 中文排序, AP归属.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keywords/对于 Obsidian 的规划.md"
+                "file": "Data/0508, OB插件, 中文排序, AP归属.md"
               }
             }
           }
@@ -179,8 +179,8 @@
   },
   "active": "3bcd46e93ded5447",
   "lastOpenFiles": [
-    "Attachment/Image Attachment/Pasted image 20230514003701.png",
     "Keywords/对于 Obsidian 的规划.md",
+    "Attachment/Image Attachment/Pasted image 20230514003701.png",
     "Attachment/Image Attachment/Pasted image 20230514003633.png",
     "Data/0513, OB插件, QK聊天.md",
     "Data/0510, 瑜伽, 婉儿.md",
@@ -198,7 +198,6 @@
     "Attachment/Image Attachment/Pasted image 20230512141336.png",
     "Attachment/Image Attachment/Pasted image 20230512140418.png",
     "Attachment/Image Attachment/Pasted image 20230512010347.png",
-    "Attachment/Image Attachment/Pasted image 20230512004728.png",
     "Keywords/空.md",
     "Data/0508.md",
     "Keywords/personal daily.md",
