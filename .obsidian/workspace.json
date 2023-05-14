@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b9b2b76a76bd1b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data/05月13日.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3bcd46e93ded5447",
             "type": "leaf",
             "state": {
@@ -50,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Keywords/对于 Obsidian 的规划.md",
+                "file": "Keywords/日记.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,8 +60,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keywords/对于 Obsidian 的规划.md",
+                "file": "Data/05月09日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keywords/对于 Obsidian 的规划.md",
+                "file": "Data/05月09日.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keywords/对于 Obsidian 的规划.md"
+                "file": "Data/05月09日.md"
               }
             }
           }
@@ -209,21 +196,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f42d61447de9c6a4",
+  "active": "3bcd46e93ded5447",
   "lastOpenFiles": [
+    "Bug反馈/Bug反馈.md",
+    "Keywords/日记.md",
+    "Keywords/快连VPN.md",
+    "Keywords/对于 Obsidian 的规划.md",
+    "Bug反馈/同一公式，在语雀不可用.md",
     "Data/05月13日.md",
     "Data/05月12日.md",
     "Data/05月11日.md",
     "Data/05月10日.md",
     "Data/05月09日.md",
     "Data/05月08日.md",
-    "Keywords/快连VPN.md",
-    "Keywords/对于 Obsidian 的规划.md",
     "Keywords/Custom File Explorer sorting.md",
     "Keywords/中文排序的诡异.md",
-    "Keywords/日记.md",
-    "Bug反馈/同一公式，在语雀不可用.md",
-    "Bug反馈/Bug反馈.md",
     "Bug反馈",
     "Attachment/Image Attachment/Pasted image 20230514003701.png",
     "Attachment/Image Attachment/Pasted image 20230514003633.png",
